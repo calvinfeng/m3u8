@@ -1,152 +1,1244 @@
 [
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/ad4d8db900bc6260d5d62ace9831dfd7f3477697.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Key to Perfect Pitch and Intonation - 01 Introduction",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/4c20648848aaa66a097be2fcdb184649ab551c3a.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Key to Perfect Pitch and Intonation - 02 How to Avoid Flatness",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/616fc909965a60dba4b99605f0d4b0e5ea081675.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Key to Perfect Pitch and Intonation - 03 How to Avoid Sharpness",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/4344546b69e27ce15c2a3452984becfc32ca3548.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Key to Perfect Pitch and Intonation - 04 Intonation Tips, Tricks, and Challenges",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/0652b5dc9c95969a6647554d6df61f46f9742c5f.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Key to Perfect Pitch and Intonation - 05 Conclusion",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/82fa55885647c7716d9a2d6656d7f2b176ea7a10.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Steps to Better Phrasing - 01 Introduction",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/f887da762cdcb0739df8172b9a15561197986643.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Steps to Better Phrasing - 02 Importance of Breath",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/36aac84d8ec464d8014c0378b2c5c2a262f3b913.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Steps to Better Phrasing - 03 Use Dynamics To Create Emotion",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/f08cf4fa7646e5af5efa2cca31ee45b5cdf9eb01.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Steps to Better Phrasing - 04 Sylistic Choices",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/68cb1fc4ba22f0a76a2c928dbf4bd0bcb04512c3.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Steps to Better Phrasing - 05 Conclusion",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/96dd0e3745236040582df9060b7b5d9b05cd1808.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Mastering Vibrato - 01 Introduction",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/ceb496c891f0fcd671e0d0775c881d243cd41c42.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Mastering Vibrato - 02 Breath Support",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/06f775d3f662a9a1bce8f15f7b6f658c703f5af8.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Mastering Vibrato - 03 Cord Compression",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/10d5a2609de5def334391a4c3319dfe9efbcb118.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Mastering Vibrato - 04 Resonant Space and Relaxation",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/5751d31b0251121b0cfc92f71dcc2cfa7ac5b0aa.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Mastering Vibrato - 05 Conclusion",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/a7d3126077494fbbaac56a05da66220a173f5de3.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Healthy and Strong Belting - 01 Introduction",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/0f02f17b461b7de81471711552826b09650d9ab8.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Healthy and Strong Belting - 02 Preparing to Belt and Vocal Health",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/48081c7c34472eb995de826b0fe179d99db92969.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Healthy and Strong Belting - 03 Chest Belt",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/762b1c914b929ff5a008d7228485760552b240fc.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Healthy and Strong Belting - 04 Mix Belt",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/975db979e19643f9d19a37eed5fdb13e9278f1bd.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Healthy and Strong Belting - 05 Conclusion",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/db6a4c1e1de486f9e5c6942d02f03fa7e41df9ba.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Pitch and Intonation 01 Introduction",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/8a5f7942376b73a213d6f8ceacc1d5f09e87a1e8.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Pitch and Intonation 02 Flatness",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/395777a753a8368060718798862e875ac20faec7.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Pitch and Intonation 03 Sharpness",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/1ec7f7a973f7077b92eb0f39a41370ca7975c189.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Pitch and Intonation 04 Tips and Tricks",
-  "done": true
- },
- {
-  "url": "https://embedwistia-a.akamaihd.net/deliveries/20b1d37c8e8c758643aa9966c63e86d0e4f4a2eb.m3u8",
-  "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
-  "filename": "Pitch and Intonation 05 Conclusion",
-  "done": true
- }
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/ad4d8db900bc6260d5d62ace9831dfd7f3477697.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Key to Perfect Pitch and Intonation - 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4c20648848aaa66a097be2fcdb184649ab551c3a.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Key to Perfect Pitch and Intonation - 02 How to Avoid Flatness",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/616fc909965a60dba4b99605f0d4b0e5ea081675.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Key to Perfect Pitch and Intonation - 03 How to Avoid Sharpness",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4344546b69e27ce15c2a3452984becfc32ca3548.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Key to Perfect Pitch and Intonation - 04 Intonation Tips, Tricks, and Challenges",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0652b5dc9c95969a6647554d6df61f46f9742c5f.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Key to Perfect Pitch and Intonation - 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/82fa55885647c7716d9a2d6656d7f2b176ea7a10.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Steps to Better Phrasing - 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/f887da762cdcb0739df8172b9a15561197986643.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Steps to Better Phrasing - 02 Importance of Breath",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/36aac84d8ec464d8014c0378b2c5c2a262f3b913.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Steps to Better Phrasing - 03 Use Dynamics To Create Emotion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/f08cf4fa7646e5af5efa2cca31ee45b5cdf9eb01.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Steps to Better Phrasing - 04 Sylistic Choices",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/68cb1fc4ba22f0a76a2c928dbf4bd0bcb04512c3.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Steps to Better Phrasing - 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/96dd0e3745236040582df9060b7b5d9b05cd1808.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mastering Vibrato - 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/ceb496c891f0fcd671e0d0775c881d243cd41c42.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mastering Vibrato - 02 Breath Support",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/06f775d3f662a9a1bce8f15f7b6f658c703f5af8.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mastering Vibrato - 03 Cord Compression",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/10d5a2609de5def334391a4c3319dfe9efbcb118.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mastering Vibrato - 04 Resonant Space and Relaxation",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5751d31b0251121b0cfc92f71dcc2cfa7ac5b0aa.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mastering Vibrato - 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a7d3126077494fbbaac56a05da66220a173f5de3.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Healthy and Strong Belting - 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0f02f17b461b7de81471711552826b09650d9ab8.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Healthy and Strong Belting - 02 Preparing to Belt and Vocal Health",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/48081c7c34472eb995de826b0fe179d99db92969.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Healthy and Strong Belting - 03 Chest Belt",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/762b1c914b929ff5a008d7228485760552b240fc.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Healthy and Strong Belting - 04 Mix Belt",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/975db979e19643f9d19a37eed5fdb13e9278f1bd.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Healthy and Strong Belting - 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/db6a4c1e1de486f9e5c6942d02f03fa7e41df9ba.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Pitch and Intonation 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/8a5f7942376b73a213d6f8ceacc1d5f09e87a1e8.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Pitch and Intonation 02 Flatness",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/395777a753a8368060718798862e875ac20faec7.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Pitch and Intonation 03 Sharpness",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1ec7f7a973f7077b92eb0f39a41370ca7975c189.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Pitch and Intonation 04 Tips and Tricks",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/20b1d37c8e8c758643aa9966c63e86d0e4f4a2eb.m3u8",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Pitch and Intonation 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/00944a9bc372320c10963c8f47bb8af651969ec3.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Getting Better Tone 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c363188e56d9a7eab699c61026087625236c9380.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Getting Better Tone 02 Warm and Rich Tone",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/f0b310e28cdbe195fbcee962d2678e167f8793ad.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Getting Better Tone 03 Bright and Present Tone",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1c206d06952326abd6ef9126ed9ee08be9028bfc.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Getting Better Tone 04 Consistency Throughout Your Range",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/bbaac3cf91d82b2e92f938112c5bf93a4dba3cf2.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Getting Better Tone 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0a86ca8c1a4b8c42e1478ab39d84fc8a7f363c81.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 01 Introduction",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b7e9b69bb72fce8a5c3eee7f61d54fb3df30a46a.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 02 The Singers' Breath",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/fbf07db48a0aab81a1f58a64be002a1748ec7db4.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 03 The Warmup",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/fbae061774347bbacfe2b78836fd0bbda6784115.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 04 The Warmup Part 2",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/475d72ccd2741345d4b5e71c6e4584ad95b692f5.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 05 Consistency of Breath in Singing",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/324d01052c7be1031776d0ebba251c16b3e34e1b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 06 How to Apply Healthy Breathing to a Song",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1f3ac509be85d874dfe7497e9158fd6a3cab8b2d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 07 Phrasing 101",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/549fefb4cc67f031a574da7f85c5705aba523240.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 08 Bad Habits and How to Avoid Them",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3cee16003c4b7e24f264206a16de1144b68e1b0d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 09 Effective Practice For Healthy Breathing",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1e8735cb50327e9133d5144e1092bcd4458aea73.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Finding Your Breath 10 Recap and Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/485204fdd56072e075fce185917173ad916410ad.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Introduction to Harmonizing 01 What is Harmony",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/f9fc7267622f2d46972524088b5efeddd7d19e39.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Introduction to Harmonizing 02 Single Note Harmonization",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/03b888f748e4fea8dcb112307fb0cda8e6d3b04e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Introduction to Harmonizing 03 Singing Your First Harmony",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/52fff2403afd81968f5e1ffc3c9cc8db2c2e2c90.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Introduction to Harmonizing 04 Let's Learn a Song",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9bec688608bc821055f9aa8a9f7b1663378eb658.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Introduction to Harmonizing 05 Recap and Tips",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/753ecde0db188eece0dba8608fed33b33decb54c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Breath Control Like a Pro 01 Welcome!",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b7c2a0b4e4fc7e4f99729c5a35680415c882bad4.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Breath Control Like a Pro 02 Engage Your Pelvic Floor",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/224ad03b97142d0ae46a6d14dc36583c781d1611.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Breath Control Like a Pro 03 Use Your Air Efficiently",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/698df185903fb7f0f7e206c9752387aa0c64bb2f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Breath Control Like a Pro 04 Build Stamina",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/dcf105576b122b2b22d49109c7dd9d445ee65e61.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Breath Control Like a Pro 05 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/283e0cc31e9b145e550114897c19ca384e6cf638.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Vibrato Part 2 01 Intro",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/7dda2b8d17ac1abc3ab641f7aade7fdc3a190daa.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Vibrato Part 2 02 Warm Up",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3661defd6eff20c86ef911c1ac4f9b27be898d04.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Vibrato Part 2 03 Part 1 - Vibrato and Straight Tone",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b3863ece7e6fe64ee87f751b27fa90b027007f7e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Vibrato Part 2 04 Part 2 - Correcting Issues with Vibrato",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/6caea3db855203bda55a542ba7aba96f35226ac9.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Vibrato Part 2 05 Part 3 - Vibrato Usage in Different Musical Genres",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a686878c84933622891dcea8eef79805846464e6.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Vibrato Part 2 06 Conclusion",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/eccce47bff0cd10954840a22011f42fadb0a0ae8.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Range Extension 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/56d7d611837dc42ad02d142a2895612eea6fe2a0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Range Extension 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1251e8b125618796347b4587c15bc8b9942b57d8.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Range Extension 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4134a793cb8da3c64d16dc8d1495fb8d58fd29da.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Range Extension 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/81da67baa09b7cfba23afa675c393a7f3510f41d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Range Extension 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/6e5a262ecb753393f3e0a1dd58b6befee8b4f725.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "All About Tone 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/aef6c5d8bd6f045b2f43eef75a7559a1759db125.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "All About Tone 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/6cf91a12be1fbe121396c43c79024c491ffe7dc1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "All About Tone 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/ec5482aba4f819859a090898ebd0d01dd89744bc.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "All About Tone 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e229ebf21b5cb18ca1af5d6c01c0a01f2d6b7e12.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "All About Tone 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/22626f956c20ec472b34bd4ae8dcfccf4d0cf217.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/dd2b2bcc559ac690c4aed2977311db5c902c1b0b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3aa10df3124266b602a125600cbe548b59a7ef8e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5e7a182894895d5a289ee2fcdf364b3a7ed43a6a.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/93d535cf72143ce6a87dc3e22362850df3b9d200.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/be4f299f30566c64ebb72b431ea30a03c01428ab.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato Part 2 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/2e9f05b51cbb5d3413005d85989d5b8d53ea3c40.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato Part 2 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b745182cbdbe905b166c0bcee692e68fbce95ba1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato Part 2 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/7d086769b5fb4242a4bbd6d7ac7603f5fba62d50.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato Part 2 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9575ed6698599afd16b04fc4fe796bdd908cadd1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato Part 2 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/7ec296890a83dd37f973a90d7106c34aa5ce9e2e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Foundations of Vibrato Part 2 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/45487ede6ea93ceeb56877abd3f3d949a995e046.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Hacks to Make You Sound Like a Pro 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c68cb784c4f9719eb6d0fb9f916224d2a50f2738.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Hacks to Make You Sound Like a Pro 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/2fbca7ddeb3550463e1f88a480ead4ebfb4900cd.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Hacks to Make You Sound Like a Pro 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/ed71386b62b90e7cc80380a62d1760a8c6e22d30.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Hacks to Make You Sound Like a Pro 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/46e40b8bc45fa9857c586325906dbab54c1e9cfc.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Hacks to Make You Sound Like a Pro 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9f6e02419b65ce22b2a2ffe61967d3a4d151486c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Hacks to Make You Sound Like a Pro 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5540668696ebcf62f40c831a079c608d51d4f05f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 1 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/37856640c91a011a36bfa3daa380ca92b1e5f3a6.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 1 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/7b6b9431b5d4d4daf51c8c881ccac3303cd11745.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 1 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/fe579db20e2a983516f137c1f1e1e5c077f0d369.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 1 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/584eafbfa7e14d736a23178fcd5e64feea1676cd.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 1 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c79bcad99c7c24f666cb44c3ead5f9c0bfdbcec2.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 1 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5472eb9bed434150efe77a35e910e073ec821e9b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 2 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/10e7e816d529806d930870814f17db8b8deeb6e0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 2 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/f6aad7e40df8aacceaf1ca4a70ab8f6523667857.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 2 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/d88dd3246c60d6c023c646af9131174948b22fd0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 2 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/59f036fc129fc914f5e45a1dee00539feed5d5b4.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 2 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/bc1fc4a15084b0dda65ba475dbc2856715c1995b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in Tune For Beginners Part 2 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/256fd3760437fe23933f0145c717d5e41a2c944d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Head Voice and Falsetto for Male Singer 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/8d920aae061e7d9c93247dfcb572884b349bdead.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Head Voice and Falsetto for Male Singer 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5c4b9bc3d525d550029e151b354f98d785d74db3.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Head Voice and Falsetto for Male Singer 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e7d3296aaec5211084ced35bcae086f47ef6432e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Head Voice and Falsetto for Male Singer 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/d247d6691a80266006a44299b136d00324121ff7.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Head Voice and Falsetto for Male Singer 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b9dc1bf033ca45c4e51f0422be1e84dee48ed2ad.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Head Voice and Falsetto for Male Singer 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/7acb2354808e4942ae4d25249f5355ba10c32718.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Vowel and Vowel Modification 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/6e47ad6996e6026f929535c1ed282d1e910ff4bd.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Vowel and Vowel Modification 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/fd4019b31c89a5fd5e4e9fa0722bb2cbe74ad63f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Vowel and Vowel Modification 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b58c03aa39c8a350e3b5c0b652554fa3185879c4.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Vowel and Vowel Modification 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/021fcb869b10773d903a5d3921c9d11fa0f9b4f2.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Vowel and Vowel Modification 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5c9972f4307b4e15e7dd9bd38113602f88f14483.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Vowel and Vowel Modification 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3aabc1944ff34b4418a8635a43bc72887ae15669.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mixed Voice 101 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/68d25fbe3e1748aea0a3147103379a1a9c05f96d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mixed Voice 101 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c3f3f2a4fb297f8db5889a55755fac1c01808997.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mixed Voice 101 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3142f43d5c76fac1c655dbed2902fbee88042134.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mixed Voice 101 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0f60d59d6202e2bb801ed4e5d681a453bab2dd60.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mixed Voice 101 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/099ef88f3f94428f485ccde28d209a9602e9a5de.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Mixed Voice 101 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4cf7596486fcc30792da9eee5731e78ef963cb2b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Ear Training Major and Minor Chords 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3044af4e4d5aafda73826cc7b308f80bd67a5d87.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Ear Training Major and Minor Chords 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/34e1da1a329072f17333da218fa64f8b144e5037.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Ear Training Major and Minor Chords 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9b4ac532a7b2a5424ffde2b13a622ec1545af4a5.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Ear Training Major and Minor Chords 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/367a3c97055602534a35e24848bda2993feb5747.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Ear Training Major and Minor Chords 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/09497669509dc2c919b3dd1da57bfa9b5d79c118.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Ear Training Major and Minor Chords 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/363062e6b2ddcb8aa0fb93cdb733c5171207bd44.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How To Sing Like a Pop Star 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/6c1947ed8872bb10ed0d5d461abdbd2c4fd6ab4b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How To Sing Like a Pop Star 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/2ffb6c68ba378365c40859441e35eaf0116dc92b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How To Sing Like a Pop Star 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/aa4ce069662d6fb37cc1d9f73e21e961edd60e0f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How To Sing Like a Pop Star 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/d7deafa29de1a01142f5a69064d86628de35f522.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How To Sing Like a Pop Star 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b1b51e27f2196cd7c90872677c665c585834be6c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Runs and Embellishments 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1c1cb94edfcdbcb403046bcc57872028662da10f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Runs and Embellishments 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/f1ba8b14cf9a515d695629fb7cea6f8983bde842.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Runs and Embellishments 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c1abd62f4f4cc1d65bebda329d7535c73c9482fe.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Runs and Embellishments 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/862f3f4b5d830abbb859c011246381770f287733.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Runs and Embellishments 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/254300c97a2415c1188d6e28971c40336dd1bf3f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9610590ddf0e8c17b65db0149a7af8fdf3d8586b.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/26b2728d3dfb28ab868ea037b8bf606e310d2e03.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4b0999e5ddbda14387b6f6cfcafcc9c9b4b350a0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/17ce2a3a4886c21bc63c8fa52c8e9c947fcdad43.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0c43ecd19f8635e4e8cc6f883c9e84f3665b8e08.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/11ec6bd759b087f1007dfbb9b013e29f71f7fba4.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/47ce7825b44f7e97a2bcea8a338c568a311fd843.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/73abcd2b08e68a02cf0a0c44f7cac285249c90e1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/24dde95e3aff3b528b1f321d50b10c64cfa49637.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/7f7ffc1fa5b61abb90e60e898d270015424766fa.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/abeef1cd8d35f15037f1a2db44ac550c012f608f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing Style of Your Favorite Female Artists 07",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a8b3f24a81f4f175d6b13a3bc9ef6ebbfaf64f94.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b113db2fec983926260af409c0b8b7259a1249ca.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c47f35dd5bed9b372dfeded0da5a2aef43d2f756.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/d48990bd7c67411837fb5c699ea8354bd2c6facb.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c910c363bc8b0329b4f417175c87db1551912fc8.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e72bce3e3fdc1ede1b44c43d84b65059243e7ea1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/1984054406f04f8e53bcad7f98b04d1bc20b66b0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Singing in the Style of Your Favorite Male Singers 07",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4dca08aaf19febf214e52e34cd96ef73e39b15d1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Classical Singing 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a36f58f24c31c2b91e29ade76dc2ca80c459ce5d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Classical Singing 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/42b7e674d127d97eb4c95cb3c2e7561706222dcb.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Classical Singing 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0937d2f371709ba881f10a48a111f8fdd2c070f3.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Classical Singing 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/142fbcf057017c18b414a7359f6ce433f77ff1da.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Classical Singing 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b56778775be9c9b048f249ccb8f705d37edda65f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Country 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a381aa30a0586a5f5b1e69a6e2817b50b3f14c76.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Country 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9aa4426d2e0831986b3f8a5c9928c62925000bf7.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Country 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/bbc26f60f8e07ebf60a367da2d194066a2191d23.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Country 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c6c4b8226a7666c06e715836b65a6defa6958fb7.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Country 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/53a848c0237731f11ce0e92efa25a47ab794d49d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in a Group (A Capella) 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/662df0703a8069daa709c505bad5fb1c4f4abd2d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in a Group (A Capella) 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5d7923e855b638d03d8526add44529d64565505c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in a Group (A Capella) 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a72ad4fb820ff0c44430fe318f523b66f75262a3.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in a Group (A Capella) 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/ab73938f198cc2beb2db53fb1bcb0e133d3f4d0c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing in a Group (A Capella) 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/96c17b314e15d0faeabbfe4f740807b8a3d833e0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Belt 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/5200859322c7b2c69d2a954798e65ed8eb93b3fb.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Belt 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/125aa1754491fbc09f275b6a4b8f6c76160c4f35.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Belt 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e2c11c4e588684fd7883216feb31eb4b2e8b61c6.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Belt 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a2020cd5bede6f61b7de60396b930edd88e1878f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Belt 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3d41ad6ed4fc4b7a3a8bee9d77c680576265950c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Lower 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/8ceedc971f369adff26a0f626ea33719d1010e62.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Lower 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/02e00889aeb60f6297b45fb56c0dbbabbb5cce51.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Lower 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/145720b8884da5c4b6b5ea42c4f7abcebc81fe04.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Lower 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/25b6c4d5f703e4fbfaa3efd858c6e29573cb2027.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Lower 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/c58aa188fa7731eb2fa30170d37abb2b7c0111c6.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Higher 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/23de37661c98daf94e82fb4fcf1e00e89c642bec.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Higher 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/4efb2e5e6eec4e85b8e14ee5e49b83f5cf23201c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Higher 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e89f92b1e796dcdd4aa793bb3664b24020ae42d1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Higher 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/8698ad6d18f3cf1c053867b2c084da6676d0cf2a.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Higher 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/2c77378ae8f6a75fc9d09d9fcf6edf3c7a6dc14d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Gradually Sing Higher 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/83fb87104bae353244c1a396f9f2e398947e590f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Pop with Abram 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/588d527f5a1b3de982808f85b01b658d87d21b67.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Pop with Abram 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/d75e79e040a5b6bbca27dd30a39b8e59cffcda7e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Pop with Abram 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0eece596dd09bd2da649388dbbc2a3257f7e04f1.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Pop with Abram 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/266e32a1831ef748a9c7764e99c2e9a35925167c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing Pop with Abram 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a22a227598d28dcf1ff541f870c60b14c7454489.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing (Any Song) in Your Signature Style 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e9a3eac6294957daf2c66e7f2414ab38f600f179.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing (Any Song) in Your Signature Style 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e94a911c8ac9b0cb40de8f63d22a30ef253f7c33.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing (Any Song) in Your Signature Style 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/988388a71d84960fdbcb9613a8572a7d39d83523.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing (Any Song) in Your Signature Style 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/60a9e443845b84236444b66979e2a024ffbdc414.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing (Any Song) in Your Signature Style 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/59a735cb07faa4dec7623e998f0579b9a7a8bcff.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing (Any Song) in Your Signature Style 06",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/ff4d4b99ebd33d44032841cd19337f5a3b362b23.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro with Abram 01",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/3c181f423bb74ddccb6e397f6db63ad3b8babe26.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro with Abram 02",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/0ae43cffb8376f1b736925c84f93106400b51d1f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro with Abram 03",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/385c5da784f50d2ff38889064bcafbb14de5dbbf.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro with Abram 04",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/bd71b022dea84ddd08ebc989dd7701d9eaf6a5f7.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "Perform Like a Pro with Abram 05",
+        "done": true
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/80dc57be665d1f5c2e56355ffe2b01322643513f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Piano at the Same Time 01",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/428fa9695c70ca1ee8a7dedaddb1a77f02cb0f2a.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Piano at the Same Time 02",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/472d50ef37cdf5f6282374f78582cf852d6521ff.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Piano at the Same Time 03",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/16f141ce68978aff0147996063a8e0261b8b53e6.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Piano at the Same Time 04",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/9cd4d52c0d8e8b30f3ae4eb8109a387c20ad869d.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Piano at the Same Time 05",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/b9419e31c3794e7ee0b54a6be2875bee136fe329.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Piano at the Same Time 06",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/24cddbf3174cf309d87b1c542402a371ee0ac38c.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Guitar / Ukulele at the Same Time 01",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e4f1a4f1d56a85c7268a1b62a15d97d22ec61ef0.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Guitar / Ukulele at the Same Time 02",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/e5871a3abb47afc846570eac9c6f9e9a951fe71e.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Guitar / Ukulele at the Same Time 03",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/27850c5ff5cdc0e41c9667cba5f76439f721229f.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Guitar / Ukulele at the Same Time 04",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/8a3541bf408e6beff16de8178cb32412b8cb7e50.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Guitar / Ukulele at the Same Time 05",
+        "done": false
+    },
+    {
+        "url": "https://embedwistia-a.akamaihd.net/deliveries/a3541d77f399c18323bb232a8007a1ffe294d4b3.m3u8/v2",
+        "dir": "/home/calvinfeng/programming/go/src/m3u8/downloads",
+        "filename": "How to Sing and Play Guitar / Ukulele at the Same Time 06",
+        "done": false
+    }
 ]
